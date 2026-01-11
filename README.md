@@ -10,8 +10,8 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barissalihbabacan/)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/barissalihli)
+  [![Official Store](https://img.shields.io/badge/Official_Store-Fourthwall-black?logo=shopify&logoColor=white)](https://thesinsofthefathers.com/)
   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/artiquana)
-  [![Personal Site](https://img.shields.io/badge/Book_Project-The_Sins_of_the_Fathers-black?style=flat&logo=bookstack&logoColor=white)](https://thesinsofthefathers.com/)
   [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--0158--100X-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-0158-100X)
 
 </div>
@@ -31,6 +31,19 @@ I am a **Software Developer** who loves bridging the gap between technical logic
 
 ---
 
+### ⚡ Creative Fuel & Interests
+
+As an author and developer, I feed my imagination with diverse sources. Here is what keeps me going:
+
+| **Category** | **Favorites / Current Vibe** |
+| :--- | :--- |
+| 🗣️ **Languages** | ![Turkish](https://img.shields.io/badge/Turkish-Native-red) ![English](https://img.shields.io/badge/English-Professional-blue) |
+| 🎧 **Music** | [![Apple Music](https://img.shields.io/badge/Apple_Music-Listen-FA243C?logo=apple-music&logoColor=white)](https://music.apple.com/profile/barissalihbabacan) *Currently listening to Neo-Classical & Phonk* |
+| 🎬 **Movies/Series** | *Interstellar, Mr. Robot, Arcane, Black Mirror* |
+| 🎮 **Games** | *Cyberpunk 2077, The Witcher 3, Detroit: Become Human* |
+
+---
+
 ### 🗺️ Project Roadmap: The Sins of the Fathers
 
 My novel is not just a book; it is a full-stack digital ecosystem. Here is the current development status based on my architecture:
@@ -39,7 +52,6 @@ My novel is not just a book; it is a full-stack digital ecosystem. Here is the c
 | :--- | :--- | :--- | :--- |
 | **Core Platform** | Astro, Sanity.io, Firebase | ✅ **Live** | Serverless architecture, i18n support, and secure headers. |
 | **Performance** | Partytown, Lenis, Lighthouse | ✅ **Optimized** | 100% SEO & Accessibility scores, lazy-loaded scripts. |
-| **CI/CD & Quality** | GitHub Actions, SonarCloud, Sentry | ✅ **Automated** | Error tracking, automated testing (Playwright), and code quality gates. |
 | **E-Commerce** | Fourthwall, Shopier, Stripe | ✅ **Integrated** | Custom merchandise store and payout integrations complete. |
 | **Data & Lore** | Obsidian, DataviewJS, D3.js | 🔄 **In Progress** | Building visual relationship graphs and timeline visualization. |
 | **Infrastructure** | Oracle Cloud VPS, Docker | 🔄 **In Progress** | Setting up custom game server and dedicated bots. |
@@ -81,12 +93,13 @@ My novel is not just a book; it is a full-stack digital ecosystem. Here is the c
 
 <div align="center">
 
-| **GitHub Stats** | **Top Languages** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=barissalihbabacan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barissalihbabacan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170" /> |
+[![Baris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=barissalihbabacan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/barissalihbabacan)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barissalihbabacan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/barissalihbabacan)
 
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=barissalihbabacan&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=barissalihbabacan&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
