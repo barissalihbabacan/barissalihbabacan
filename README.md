@@ -10,7 +10,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barissalihbabacan/)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/barissalihli)
-  [![Official Store](https://img.shields.io/badge/Official_Store-Fourthwall-black?logo=shopify&logoColor=white)](https://thesinsofthefathers.com/)
+  [![Official Store](https://img.shields.io/badge/Official_Store-Fourthwall-black?logo=shopify&logoColor=white)](https://shop.thesinsofthefathers.com/)
   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/artiquana)
   [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--0158--100X-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-0158-100X)
 
@@ -37,10 +37,10 @@ As an author and developer, I feed my imagination with diverse sources. Here is 
 
 | **Category** | **Favorites / Current Vibe** |
 | :--- | :--- |
-| 🗣️ **Languages** | ![Turkish](https://img.shields.io/badge/Turkish-Native-red) ![English](https://img.shields.io/badge/English-Professional-blue) |
-| 🎧 **Music** | [![Apple Music](https://img.shields.io/badge/Apple_Music-Listen-FA243C?logo=apple-music&logoColor=white)](https://music.apple.com/profile/barissalihbabacan) *Currently listening to Neo-Classical & Phonk* |
-| 🎬 **Movies/Series** | *Interstellar, Mr. Robot, Arcane, Black Mirror* |
-| 🎮 **Games** | *Cyberpunk 2077, The Witcher 3, Detroit: Become Human* |
+| 🗣️ **Languages** | ![Turkish](https://img.shields.io/badge/Turkish-Native-red) ![English](https://img.shields.io/badge/English-B1-blue) |
+| 🎧 **Must Listen** | [![Spotify](https://img.shields.io/badge/Spotify-Listen-1DB954?logo=spotify&logoColor=white)]([https://open.spotify.com](https://open.spotify.com/user/9gcxr5uc6womkqrwpg5hpu6iz)/)
+| 🎬 **Must Watch** | *Léon: The Professional, The Sopranos, Mr. Robot, Tokyo Ghoul* |
+| 🎮 **Must Play** | *Red Dead Redemption 2, The Witcher 3* |
 
 ---
 
