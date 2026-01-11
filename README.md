@@ -38,7 +38,7 @@ As an author and developer, I feed my imagination with diverse sources. Here is 
 | **Category** | **Favorites / Current Vibe** |
 | :--- | :--- |
 | 🗣️ **Languages** | ![Turkish](https://img.shields.io/badge/Turkish-Native-red) ![English](https://img.shields.io/badge/English-B1-blue) |
-| 🎧 **Must Listen** | [![Spotify](https://img.shields.io/badge/Spotify-Listen-1DB954?logo=spotify&logoColor=white)]([https://open.spotify.com](https://open.spotify.com/user/9gcxr5uc6womkqrwpg5hpu6iz)/)
+| 🎧 **Must Listen** | [![Spotify](https://img.shields.io/badge/Spotify-Listen-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com) *Currently listening to Neo-Classical & Phonk* |
 | 🎬 **Must Watch** | *Léon: The Professional, The Sopranos, Mr. Robot, Tokyo Ghoul* |
 | 🎮 **Must Play** | *Red Dead Redemption 2, The Witcher 3* |
 
