@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Barış%20Salih%20Babacan&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%26%20Author&descAlignY=62&descAlign=50"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=333333&center=true&vCenter=true&width=500&lines=Building+Digital+Universes...;Author+of+%22The+Sins+of+the+Fathers%22;Mobile+%26+Web+Developer;Creative+Thinker." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F2F2F2&center=true&vCenter=true&width=500&lines=Building+Digital+Universes...;Author+of+%22The+Sins+of+the+Fathers%22;Mobile+%26+Web+Developer;Creative+Thinker." alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,6 +10,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barissalihbabacan/)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/barissalihli)
+  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/artiquana)
   [![Personal Site](https://img.shields.io/badge/Book_Project-The_Sins_of_the_Fathers-black?style=flat&logo=bookstack&logoColor=white)](https://thesinsofthefathers.com/)
   [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--0158--100X-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-0158-100X)
 
@@ -34,11 +35,11 @@ I am a **Software Developer** who loves bridging the gap between technical logic
 
 <div align="center">
   
-  | **Project** | **Status** | **Description** |
-  | :--- | :--- | :--- |
-  | **The Sins of the Fathers** | 🟢 *Publishing Phase* | A multi-generational universe spanning from 1300 to 2006. |
+  | **Project** | **Genre** | **Status** | **Description** |
+  | :--- | :--- | :--- | :--- |
+  | **The Sins of the Fathers** | Science Fiction / Thriller | 🟢 *Publishing Phase* | A multi-generational universe spanning from 1300 to 2006. |
   
-  </div>
+</div>
 
 ---
 
@@ -54,8 +55,9 @@ I am a **Software Developer** who loves bridging the gap between technical logic
 
 **Web & Backend**<br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-%232C205F.svg?style=for-the-badge&logo=astro&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 **Creative & Tools**<br>
