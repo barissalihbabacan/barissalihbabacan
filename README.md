@@ -31,19 +31,22 @@ I am a **Software Developer** who loves bridging the gap between technical logic
 
 ---
 
-### 📖 Featured Work: The Novel
+### 🗺️ Project Roadmap: The Sins of the Fathers
 
-<div align="center">
-  
-  | **Project** | **Genre** | **Status** | **Description** |
-  | :--- | :--- | :--- | :--- |
-  | **The Sins of the Fathers** | Neo-Noir / Psychological Thriller | 🟢 *Publishing Phase* | A dark multi-generational saga spanning from 1300s to 2006, exploring the cyclical nature of power, betrayal, and inheritance. |
-  
-</div>
+My novel is not just a book; it is a full-stack digital ecosystem. Here is the current development status based on my architecture:
+
+| **Module** | **Tech Stack** | **Status** | **Details** |
+| :--- | :--- | :--- | :--- |
+| **Core Platform** | Astro, Sanity.io, Firebase | ✅ **Live** | Serverless architecture, i18n support, and secure headers. |
+| **Performance** | Partytown, Lenis, Lighthouse | ✅ **Optimized** | 100% SEO & Accessibility scores, lazy-loaded scripts. |
+| **CI/CD & Quality** | GitHub Actions, SonarCloud, Sentry | ✅ **Automated** | Error tracking, automated testing (Playwright), and code quality gates. |
+| **E-Commerce** | Fourthwall, Shopier, Stripe | ✅ **Integrated** | Custom merchandise store and payout integrations complete. |
+| **Data & Lore** | Obsidian, DataviewJS, D3.js | 🔄 **In Progress** | Building visual relationship graphs and timeline visualization. |
+| **Infrastructure** | Oracle Cloud VPS, Docker | 🔄 **In Progress** | Setting up custom game server and dedicated bots. |
 
 ---
 
-### 🛠️ Arsenal (Tech Stack)
+### 🛠️ Arsenal (Extended Tech Stack)
 
 <div align="center">
 
@@ -54,16 +57,21 @@ I am a **Software Developer** who loves bridging the gap between technical logic
 ![Android SDK](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 **Web & Backend**<br>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Astro](https://img.shields.io/badge/astro-%232C205F.svg?style=for-the-badge&logo=astro&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Creative & Tools**<br>
+**DevOps & Tools**<br>
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**Creative Suite**<br>
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
