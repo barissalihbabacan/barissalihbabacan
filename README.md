@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Barış%20Salih%20Babacan&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%26%20Author&descAlignY=62&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Barış%20Salih%20Babacan&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20and%20Author&descAlignY=62&descAlign=50"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F2F2F2&center=true&vCenter=true&width=500&lines=Building+Digital+Universes...;Author+of+%22The+Sins+of+the+Fathers%22;Mobile+%26+Web+Developer;Creative+Thinker." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F2F2F2&center=true&vCenter=true&width=500&lines=Building+Digital+Universes...;Author+of+%22The+Sins+of+the+Fathers%22;Mobile+and+Web+Developer;Creative+Thinker." alt="Typing SVG" />
   </a>
 </div>
 
