@@ -10,8 +10,6 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barissalihbabacan/)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/barissalihli)
-  [![Official Store](https://img.shields.io/badge/Official_Store-Fourthwall-black?logo=shopify&logoColor=white)](https://shop.thesinsofthefathers.com/)
-  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/artiquana)
   [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--0158--100X-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-0158-100X)
 
 </div>
@@ -26,18 +24,37 @@ I am a **Software Developer** & **Network Specialist** bridging the gap between 
 
 * 🔭 **Current Project:** Developing the official platform for **"Babaların Günahları" (The Sins of the Fathers)**.
 * 🌐 **Core Focus:** Web Development, Network Administration, and Protocol Analysis (IoT/DLNA).
-* 🤝 **Collaboration:** Open to freelance projects and creative tech partnerships.
 * ⚡ **Superpower:** Blending **Deep Packet Inspection** skills with **Creative Software Design**.
 
 ---
 
-### ✍️ Latest from the Author's Desk
+### 🌐 The Ecosystem & Community
+
+My work extends beyond GitHub. Explore the universe of "The Sins of the Fathers" and join the community:
+
+| **Platform** | **Purpose** | **Link** |
+| :--- | :--- | :--- |
+| **Discord** | 💬 Official Community Server | [![Discord](https://img.shields.io/badge/Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/artiquana) |
+| **Reddit** | 📢 Discussions & Theories | [![Reddit](https://img.shields.io/badge/r%2FRavenwoodArchives-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/RavenwoodArchives/) |
+| **Fourthwall** | 👕 Official Merchandise | [![Store](https://img.shields.io/badge/Shop_Merch-black?style=for-the-badge&logo=shopify&logoColor=white)](https://shop.thesinsofthefathers.com/) |
+| **Shopier** | 📦 Local Orders (TR) | [![Shopier](https://img.shields.io/badge/Shopier-Buy_Now-00A693?style=for-the-badge&logo=shopping-bag&logoColor=white)](https://www.shopier.com/thesinsofthefathers) |
+| **Gumroad** | 📚 Digital Assets & E-Books | [![Gumroad](https://img.shields.io/badge/Gumroad-Get_Assets-ff90e8?style=for-the-badge&logo=gumroad&logoColor=black)](https://thesinsofthefathers.gumroad.com/) |
+
+---
+
+### 💻 What Can I Do? (Services)
+
+I combine my background in **Network Administration** with **Creative Development** to offer unique solutions:
+
+* **🔒 Network Security & Analysis:** Wireshark protocol analysis, packet inspection, and secure network architecture design.
+* **🌍 Full Stack Web Development:** Building fast, SEO-optimized, and secure web applications using Astro and Firebase.
+* **📖 Digital Storytelling:** Creating immersive digital experiences that complement narrative works.
 
 ---
 
 ### ⚡ Creative Fuel & Interests
 
-As an author and developer, I feed my imagination with diverse sources. Here is what keeps me going:
+As an author and developer, I feed my imagination with diverse sources:
 
 | **Category** | **Favorites / Current Vibe** |
 | :--- | :--- |
@@ -49,7 +66,9 @@ As an author and developer, I feed my imagination with diverse sources. Here is 
 
 ### 🗺️ Project Roadmap: The Sins of the Fathers
 
-My novel is not just a book; it is a full-stack digital ecosystem. Here is the current development status based on my architecture:
+> *"A dark multi-generational saga spanning from 1300s to 2006, exploring the cyclical nature of power, betrayal, and inheritance."*
+
+My novel is not just a book; it is a full-stack digital ecosystem. Here is the current development status:
 
 | **Module** | **Tech Stack** | **Status** | **Details** |
 | :--- | :--- | :--- | :--- |
@@ -57,36 +76,20 @@ My novel is not just a book; it is a full-stack digital ecosystem. Here is the c
 | **Performance** | Partytown, Lenis, Lighthouse | ✅ **Optimized** | 100% SEO & Accessibility scores, lazy-loaded scripts. |
 | **E-Commerce** | Fourthwall, Shopier, Stripe | ✅ **Integrated** | Custom merchandise store and payout integrations complete. |
 | **Data & Lore** | Obsidian, DataviewJS, D3.js | 🔄 **In Progress** | Building visual relationship graphs and timeline visualization. |
-| **Infrastructure** | Oracle Cloud VPS, Docker | 🔄 **In Progress** | Setting up custom game server and dedicated bots. |
 
 ---
 
-### 🛠️ Arsenal (Tech Stack)
+### 🛠️ The Arsenal (Tech Stack)
 
 <div align="center">
 
-**Network & Protocol Analysis**<br>
-![Wireshark](https://img.shields.io/badge/Wireshark-16214D?style=for-the-badge&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/Protocol-TCP%2FIP-blue?style=for-the-badge)
+| **🛡️ Network & Protocol** | **🌐 Web Architecture** |
+| :--- | :--- |
+| ![Wireshark](https://img.shields.io/badge/Wireshark-16214D?style=for-the-badge&logo=wireshark&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br> ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![TCP/IP](https://img.shields.io/badge/Protocol-TCP%2FIP-blue?style=for-the-badge) <br> ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ![Astro](https://img.shields.io/badge/astro-%232C205F.svg?style=for-the-badge&logo=astro&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) <br> ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) <br> ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
 
-**Web & Backend**<br>
-![Astro](https://img.shields.io/badge/astro-%232C205F.svg?style=for-the-badge&logo=astro&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Mobile & Core**<br>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Android SDK](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-**Creative Suite**<br>
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+| **📊 Analytics & DevOps** | **💻 Core & Creative** |
+| :--- | :--- |
+| ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white) <br> ![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-4285F4?style=for-the-badge&logo=google%20tag%20manager&logoColor=white) ![Resend](https://img.shields.io/badge/Resend-black?style=for-the-badge&logo=resend&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white) <br> ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) |
 
 </div>
 
@@ -96,9 +99,9 @@ My novel is not just a book; it is a full-stack digital ecosystem. Here is the c
 
 <div align="center">
 
-[![Baris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=barissalihbabacan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/barissalihbabacan)
+[![Baris's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=barissalihbabacan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/barissalihbabacan)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barissalihbabacan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/barissalihbabacan)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=barissalihbabacan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/barissalihbabacan)
 
 <br>
 
