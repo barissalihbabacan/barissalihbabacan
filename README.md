@@ -34,7 +34,7 @@ My work extends beyond GitHub. Explore the universe of "The Sins of the Fathers"
 
 | **Platform** | **Purpose** | **Link** |
 | :--- | :--- | :--- |
-| **Discord** | 💬 Official Community Server | [![Discord](https://img.shields.io/badge/Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/artiquana) |
+| **Discord** | 💬 Official Community Server | [![Discord](https://img.shields.io/badge/Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sJYY7uXZkB) |
 | **Reddit** | 📢 Discussions & Theories | [![Reddit](https://img.shields.io/badge/r%2FRavenwoodArchives-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/RavenwoodArchives/) |
 | **Fourthwall** | 👕 Official Merchandise | [![Store](https://img.shields.io/badge/Shop_Merch-black?style=for-the-badge&logo=shopify&logoColor=white)](https://shop.thesinsofthefathers.com/) |
 | **Shopier** | 📦 Local Orders (TR) | [![Shopier](https://img.shields.io/badge/Shopier-Buy_Now-00A693?style=for-the-badge&logo=shopping-bag&logoColor=white)](https://www.shopier.com/thesinsofthefathers) |
@@ -85,11 +85,11 @@ My novel is not just a book; it is a full-stack digital ecosystem. Here is the c
 
 | **🛡️ Network & Protocol** | **🌐 Web Architecture** |
 | :--- | :--- |
-| ![Wireshark](https://img.shields.io/badge/Wireshark-16214D?style=for-the-badge&logo=wireshark&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br> ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![TCP/IP](https://img.shields.io/badge/Protocol-TCP%2FIP-blue?style=for-the-badge) <br> ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ![Astro](https://img.shields.io/badge/astro-%232C205F.svg?style=for-the-badge&logo=astro&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) <br> ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) <br> ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
+| ![Wireshark](https://img.shields.io/badge/Wireshark-16214D?style=for-the-badge&logo=wireshark&logoColor=white) ![TCP/IP](https://img.shields.io/badge/Protocol-TCP%2FIP-blue?style=for-the-badge) <br> ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ![Astro](https://img.shields.io/badge/astro-%232C205F.svg?style=for-the-badge&logo=astro&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) <br> ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) <br> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 
-| **📊 Analytics & DevOps** | **💻 Core & Creative** |
+| **📊 Analytics & DevOps** | **🎨 Creative Suite & Tools** |
 | :--- | :--- |
-| ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white) <br> ![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-4285F4?style=for-the-badge&logo=google%20tag%20manager&logoColor=white) ![Resend](https://img.shields.io/badge/Resend-black?style=for-the-badge&logo=resend&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white) <br> ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) |
+| ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white) <br> ![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-4285F4?style=for-the-badge&logo=google%20tag%20manager&logoColor=white) ![Resend](https://img.shields.io/badge/Resend-black?style=for-the-badge&logo=resend&logoColor=white) | ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) <br> ![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white) ![Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF?style=for-the-badge&logo=adobe%20audition&logoColor=white) <br> ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white) |
 
 </div>
 
@@ -99,9 +99,9 @@ My novel is not just a book; it is a full-stack digital ecosystem. Here is the c
 
 <div align="center">
 
-[![Baris's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=barissalihbabacan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/barissalihbabacan)
+[![Baris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=barissalihbabacan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/barissalihbabacan)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=barissalihbabacan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/barissalihbabacan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barissalihbabacan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/barissalihbabacan)
 
 <br>
 
