@@ -99,18 +99,10 @@ My novel is not just a book; it is a full-stack digital ecosystem. Here is the c
 
 <div align="center">
 
-[![Baris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=barissalihbabacan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/barissalihbabacan)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barissalihbabacan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/barissalihbabacan)
+[![Streak Stats](https://streak-stats.demolab.com/?user=barissalihbabacan&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 <br>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=barissalihbabacan&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=barissalihbabacan&icon=5&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=barissalihbabacan&icon=5&color=6)](https://visitcount.itsvg.in)
 
 </div>
