@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Barış%20Salih%20Babacan&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20and%20Author&descAlignY=62&descAlign=50"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F2F2F2&center=true&vCenter=true&width=500&lines=Building+Digital+Universes...;Author+of+%22The+Sins+of+the+Fathers%22;Mobile+and+Web+Developer;Creative+Thinker." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F2F2F2&center=true&vCenter=true&width=500&lines=Building+Digital+Universes...;Author+of+%22The+Sins+of+the+Fathers%22;Web+%26+Network+Specialist;Protocol+Analyst." alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,14 +20,18 @@
 
 ### 🚀 Who Am I?
 
-> *"I don't just write code; I write universes."*
+> *"I don't just write code; I ensure it connects securely."*
 
-I am a **Software Developer** who loves bridging the gap between technical logic and creative storytelling. Currently, I am channeling my engineering skills into building the immersive digital experience for my novel.
+I am a **Software Developer** & **Network Specialist** bridging the gap between technical logic, protocol analysis, and creative storytelling. My expertise lies in building secure web architectures and analyzing complex network behaviors.
 
 * 🔭 **Current Project:** Developing the official platform for **"Babaların Günahları" (The Sins of the Fathers)**.
-* 📱 **Mobile Focus:** Native Android (Java) & iOS (SwiftUI).
+* 🌐 **Core Focus:** Web Development, Network Administration, and Protocol Analysis (IoT/DLNA).
 * 🤝 **Collaboration:** Open to freelance projects and creative tech partnerships.
-* ⚡ **Superpower:** Blending **Adobe Creative Suite** mastery with **Software Architecture**.
+* ⚡ **Superpower:** Blending **Deep Packet Inspection** skills with **Creative Software Design**.
+
+---
+
+### ✍️ Latest from the Author's Desk
 
 ---
 
@@ -38,9 +42,8 @@ As an author and developer, I feed my imagination with diverse sources. Here is 
 | **Category** | **Favorites / Current Vibe** |
 | :--- | :--- |
 | 🗣️ **Languages** | ![Turkish](https://img.shields.io/badge/Turkish-Native-red) ![English](https://img.shields.io/badge/English-B1-blue) |
-| 🎧 **Must Listen** | [![Spotify](https://img.shields.io/badge/Spotify-Listen-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com) *Currently listening to Neo-Classical & Phonk* |
 | 🎬 **Must Watch** | *Léon: The Professional, The Sopranos, Mr. Robot, Tokyo Ghoul* |
-| 🎮 **Must Play** | *Red Dead Redemption 2, The Witcher 3* |
+| 🎮 **Must Play** | *Red Dead Redemption 2, The Witcher 3, Cyberpunk 2077* |
 
 ---
 
@@ -58,15 +61,15 @@ My novel is not just a book; it is a full-stack digital ecosystem. Here is the c
 
 ---
 
-### 🛠️ Arsenal (Extended Tech Stack)
+### 🛠️ Arsenal (Tech Stack)
 
 <div align="center">
 
-**Mobile & Core**<br>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Android SDK](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+**Network & Protocol Analysis**<br>
+![Wireshark](https://img.shields.io/badge/Wireshark-16214D?style=for-the-badge&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/Protocol-TCP%2FIP-blue?style=for-the-badge)
 
 **Web & Backend**<br>
 ![Astro](https://img.shields.io/badge/astro-%232C205F.svg?style=for-the-badge&logo=astro&logoColor=white)
@@ -75,11 +78,11 @@ My novel is not just a book; it is a full-stack digital ecosystem. Here is the c
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**DevOps & Tools**<br>
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**Mobile & Core**<br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Android SDK](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 **Creative Suite**<br>
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
