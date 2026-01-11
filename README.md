@@ -37,7 +37,7 @@ I am a **Software Developer** who loves bridging the gap between technical logic
   
   | **Project** | **Genre** | **Status** | **Description** |
   | :--- | :--- | :--- | :--- |
-  | **The Sins of the Fathers** | Science Fiction / Thriller | 🟢 *Publishing Phase* | A multi-generational universe spanning from 1300 to 2006. |
+  | **The Sins of the Fathers** | Neo-Noir / Psychological Thriller | 🟢 *Publishing Phase* | A dark multi-generational saga spanning from 1300s to 2006, exploring the cyclical nature of power, betrayal, and inheritance. |
   
 </div>
 
