@@ -1,82 +1,114 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Barış%20Salih%20Babacan&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Systems%20Architect%20%7C%20Author&descAlignY=62&descAlign=50"/>
-
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F2F2F2&center=true&vCenter=true&width=600&lines=Building+Resilient+System+Architectures...;Open+Source+Contributor+(AnyType,+ConnectSDK);Local-First+%26+Decentralized+Systems;Author+of+%22The+Sins+of+the+Fathers%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=[SYS.INIT]+Loading+architecture...;>+Software+Engineer+|+Systems+Architect;>+Author+of+%22The+Sins+of+the+Fathers%22;>+Status:+Online" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barissalihbabacan/)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/barissalihli)
-  [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--0158--100X-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-0158-100X)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barissalihbabacan/)
+  [![Instagram](https://img.shields.io/badge/Instagram-1A1A1A?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/barissalihli)
+  [![ORCID](https://img.shields.io/badge/ORCID-1A1A1A?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-0158-100X)
+  [![Website](https://img.shields.io/badge/Website-1A1A1A?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://thesinsofthefathers.com/)
 
 </div>
 
 ---
 
-### 🚀 Who Am I?
+### `> whoami`
 
-> *"I don't just write code; I architect systems that connect the physical, digital, and decentralized worlds."*
+> **`[SYS.INIT]`** Software Engineer | Systems Architect | Narrative Designer <br>
+> **`[LOG]`** Building systems across physical, digital, and decentralized planes.
 
-I am a **Software Engineer** and **Systems Architect** who thrives on solving complex engineering bottlenecks. Whether it's shipping full-stack mobile applications, debugging 16KB memory alignments in C++ NDKs, or managing decentralized data structures in TypeScript, I focus on performance, security, and scalability. 
+I am a **Software Engineer** and **Systems Architect** focused on local-first environments, low-level performance, and secure data structures. I enjoy solving complex architectural problems, from managing C++ NDK integrations to developing seamless full-stack applications.
 
-Beyond the code, I am the author of the dark multi-generational saga **"The Sins of the Fathers"**, blending my narrative design skills with full-stack development to create immersive digital ecosystems.
+Currently, my primary focus is **Osmos** (Alpha)—a local-first, peer-to-peer version control and sync system built for the Apple ecosystem. Powered by a Rust core and a native SwiftUI layer, Osmos aims to eliminate cloud dependency, giving creators total data sovereignty through a secure, offline-first architecture.
 
----
-
-### 💻 Featured Engineering Highlights
-
-I specialize in building end-to-end architectures, shipping production-ready products, and contributing to major open-source ecosystems.
-
-| **Domain** | **Project / Contribution** | **Tech Stack / Impact** |
-| :--- | :--- | :--- |
-| 📱 **Mobile & Full-Stack** | **Sortify & +TV** | Managed the full development lifecycle and app store (iOS/Android) launches of Sortify (EdTech) using **SwiftUI, Node.js, and TypeScript**. Serving as the primary developer and manager for the +TV platform at Garage.ist. |
-| 🌐 **Open Source (Core)** | **AnyType** (anyproto) | Contributed to the core data engine (CID mapping) and frontend (React/TS). Resolved critical SPA fallback loops, MIME type bugs, and built AST block-based editor features. |
-| ⚙️ **Low-Level Android** | **ConnectSDK Core** | Led the modernization of the SDK for **Android 15 (16KB page alignment)**. Managed C++ NDK library integrations and migrated legacy build systems to Gradle 8.5. |
-| 🐍 **Scripting & Infra** | **Media Server Automation** | Engineered Python and shell scripts for automated high-res audio metadata fetching (Spotify/LRCLib). Built and managed a self-hosted media server ecosystem integrating Jellyfin, Tailscale, and Symfonium APIs. |
-| 🏢 **Enterprise Software** | **IT-RMS** | Built a multi-branch IT Resource Management System. Handled barcode generation, dynamic reporting, and role-based access. Migrating from monolithic PHP to a modern Node.js/NoSQL architecture. |
-| 📟 **Hardware & IoT** | **Q-PASS** (Active Production)| Engineered a real-world RFID access control system currently securing a public institution. Integrated **C++ (Arduino)** with **Python/PHP/MySQL** via serial communication. |
+Outside of system architecture, I am the author of the dark multi-generational saga **"The Sins of the Fathers"**. It is an ongoing project where I blend narrative design with web technologies to build expanding digital ecosystems.
 
 ---
 
-### 🛠️ The Arsenal (Tech Stack)
+### `> ls -la /sys/production/`
+* **`[DOMAIN: Mobile & Full-Stack]` Sortify**
+  Serving as CTO, Project Manager, and Lead Developer. Orchestrating the full development lifecycle and app store launches (iOS/Android) utilizing **SwiftUI, Node.js, and TypeScript**.
+
+* **`[DOMAIN: Mobile & Full-Stack]` +TV (Garage.ist)**
+  Served as Lead Developer for the +TV platform. Architected the core systems and managed the technical operations for the platform.
+
+* **`[DOMAIN: Open Source]` AnyType (anyproto)**
+  Contributed to the core data engine (CID mapping) and frontend (React/TS). Resolved critical SPA fallback loops, MIME type bugs, and built AST block-based editor features.
+
+* **`[DOMAIN: Low-Level Android]` ConnectSDK Core**
+  Modernized SDK for **Android 15 (16KB page alignment)**. Managed C++ NDK library integrations and migrated legacy build systems to Gradle 8.5.
+
+* **`[DOMAIN: Scripting & Infra]` Media Server Automation**
+  Engineered Python and shell scripts for automated metadata fetching. Managed a self-hosted ecosystem integrating Jellyfin, Tailscale, and Symfonium APIs.
+
+* **`[DOMAIN: Enterprise Software]` IT-RMS**
+  Built a multi-branch IT Resource Management System. Migrated monolithic PHP to **Node.js/NoSQL**. Handled barcode generation and role-based access.
+
+* **`[DOMAIN: Hardware & IoT]` Q-PASS (Active Production)**
+  Engineered real-world RFID access control securing a public institution. Integrated **C++ (Arduino)** with Python/PHP/MySQL via serial comms.
+
+---
+
+### `> cat /config/tech_stack.json`
 
 <div align="center">
 
-| **Core Languages** | **Systems & Backend** | **Frontend & Mobile** | **Tools & Architecture** |
+| Core Languages | Backend & Network | Frontend & Creative | Tools & Productivity |
 | :--- | :--- | :--- | :--- |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)<br>![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)<br>![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)<br>![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)<br>![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)<br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br>![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) | ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)<br>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br>![Astro](https://img.shields.io/badge/Astro-2C205F?style=for-the-badge&logo=astro&logoColor=white)<br>![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)<br>![Tailscale](https://img.shields.io/badge/Tailscale-FFFFFF?style=for-the-badge&logo=tailscale&logoColor=black)<br>![Wireshark](https://img.shields.io/badge/Wireshark-16214D?style=for-the-badge&logo=wireshark&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-1A1A1A?style=for-the-badge&logo=typescript&logoColor=white)<br>![Swift](https://img.shields.io/badge/Swift-1A1A1A?style=for-the-badge&logo=swift&logoColor=white)<br>![Rust](https://img.shields.io/badge/Rust-1A1A1A?style=for-the-badge&logo=rust&logoColor=white)<br>![C++](https://img.shields.io/badge/C%2B%2B-1A1A1A?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-1A1A1A?style=for-the-badge&logo=node.js&logoColor=white)<br>![Firebase](https://img.shields.io/badge/Firebase-1A1A1A?style=for-the-badge&logo=firebase&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-1A1A1A?style=for-the-badge&logo=mysql&logoColor=white)<br>![Arduino](https://img.shields.io/badge/Arduino-1A1A1A?style=for-the-badge&logo=arduino&logoColor=white)<br>![Cisco](https://img.shields.io/badge/Cisco_PT-1A1A1A?style=for-the-badge&logo=cisco&logoColor=white)<br>![Network](https://img.shields.io/badge/Network__Infra-1A1A1A?style=for-the-badge&logo=serverless&logoColor=white) | ![SwiftUI](https://img.shields.io/badge/SwiftUI-1A1A1A?style=for-the-badge&logo=swift&logoColor=white)<br>![React](https://img.shields.io/badge/React-1A1A1A?style=for-the-badge&logo=react&logoColor=white)<br>![Astro](https://img.shields.io/badge/Astro-1A1A1A?style=for-the-badge&logo=astro&logoColor=white)<br>![TailwindCSS](https://img.shields.io/badge/Tailwind-1A1A1A?style=for-the-badge&logo=tailwind-css&logoColor=white)<br>![After Effects](https://img.shields.io/badge/After_Effects-1A1A1A?style=for-the-badge&logo=adobeaftereffects&logoColor=white)<br>![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-1A1A1A?style=for-the-badge&logo=adobepremierepro&logoColor=white)<br>![Audition](https://img.shields.io/badge/Audition-1A1A1A?style=for-the-badge&logo=adobeaudition&logoColor=white)<br>![Lightroom](https://img.shields.io/badge/Lightroom-1A1A1A?style=for-the-badge&logo=adobelightroom&logoColor=white) | ![Git](https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=white)<br>![Playwright](https://img.shields.io/badge/Playwright-1A1A1A?style=for-the-badge&logo=playwright&logoColor=white)<br>![Tailscale](https://img.shields.io/badge/Tailscale-1A1A1A?style=for-the-badge&logo=tailscale&logoColor=white)<br>![Wireshark](https://img.shields.io/badge/Wireshark-1A1A1A?style=for-the-badge&logo=wireshark&logoColor=white)<br>![Word](https://img.shields.io/badge/Word-1A1A1A?style=for-the-badge&logo=microsoftword&logoColor=white)<br>![Excel](https://img.shields.io/badge/Excel-1A1A1A?style=for-the-badge&logo=microsoftexcel&logoColor=white)<br>![PowerPoint](https://img.shields.io/badge/PowerPoint-1A1A1A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white) |
 
 </div>
 
 ---
 
-### 🗺️ Digital Storytelling & Ecosystems
+### `> ./decrypt_lore.sh --target "The Sins of the Fathers"`
 
-I believe the best products tell a story. **"The Sins of the Fathers"** is my ongoing dark fiction project, which I am expanding into a fully interactive digital fortress.
+> **`[!]` ACCESS GRANTED. MULTIPLE NODES DETECTED...**
 
-* 🌐 **Architecture:** SSR + Headless CMS (Astro v5, Sanity.io).
-* ⚡ **Performance:** 100% Core Web Vitals, Partytown optimized.
-* 🛍️ **E-Commerce:** Custom headless storefront integration.
+I believe the best products tell a story. **"The Sins of the Fathers"** is my ongoing dark fiction project, which I am expanding into a fully interactive digital ecosystem distributed across multiple nodes.
 
-| **Community & Lore** | **Link** |
-| :--- | :--- |
-| **Discord** | [![Discord](https://img.shields.io/badge/Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sJYY7uXZkB) |
-| **Reddit** | [![Reddit](https://img.shields.io/badge/r%2FRavenwoodArchives-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/RavenwoodArchives/) |
-| **Fourthwall** | [![Store](https://img.shields.io/badge/Shop_Merch-black?style=for-the-badge&logo=shopify&logoColor=white)](https://shop.thesinsofthefathers.com/) |
+**`[NODE 01: THE FORTRESS]` // Core Experience (Main Site)**
+* **`[SYS.ARCH]` Architecture:** Vanilla JS (ES6+), Tailwind CSS, and Firebase Functions. Hosted via GCP.
+* **`[SYS.CORE]` Features:** GSAP & Lenis rendering, Howler.js audio, Mapbox GL JS, and D3.js visual webs.
+* **`[SYS.OPS]` Pipeline:** Cloudflare secured, Playwright E2E testing, Sentry error tracking, and GitHub Actions CI/CD.
 
----
+**`[NODE 02: THE ARCHIVES]` // Lore & Blog**
+* **`[SYS.ARCH]` Architecture:** SSR + Headless CMS (Astro v5, Sanity.io).
+* **`[SYS.PERF]` Performance:** 100% Core Web Vitals, Partytown optimized.
 
-### 📊 Digital Footprint
-
-<div align="center">
-
-[![Streak Stats](https://streak-stats.demolab.com/?user=barissalihbabacan&theme=radical&hide_border=true)](https://git.io/streak-stats)
+**`[NODE 03: THE SUPPLY DEPOT]` // E-Commerce Storefront**
+* **`[SYS.PLAT]` Platform:** Fourthwall infrastructure.
+* **`[SYS.INTEG]` Integration:** Custom domain mapping with specialized merchandise ecosystem.
 
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=barissalihbabacan&icon=5&color=6)](https://visitcount.itsvg.in)
+<div align="center">
+  
+  [![Official Site](https://img.shields.io/badge/Official_Site-1A1A1A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjBNMTIgMmExNS4zIDE1LjMgMCAwMTQgMTAgMTUuMyAxNS4zIDAgMDEtNCAxMCAxNS4zIDE1LjMgMCAwMS00LTEwIDE1LjMgMTUuMyAwIDAxNC0xMHoiLz48L3N2Zz4%3D)](https://thesinsofthefathers.com/)
+  [![Shop](https://img.shields.io/badge/Fourthwall_Shop-1A1A1A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik03IDE4Yy0xLjEgMC0xLjk5LjktMS45OSAyUzUuOSAyMiA3IDIyczItLjkgMi0yLS45LTItMi0yek0xIDJ2MmgybDMuNiA3LjU5LTEuMzUgMi40NWMtLjE2LjI4LS4yNS42MS0uMjUuOTYgMCAxLjEuOSAyIDIgMmgxMnYtMkg3LjQyYy0uMTQgMC0uMjUtLjExLS4yNS0uMjVsLjAzLS4xMi45LTEuNjNoNy40NWMuNzUgMCAxLjQxLS40MSAxLjc1LTEuMDNsMy41OC02LjQ5QTEuMDAzIDEuMDAzIDAgMCAwIDIwIDRINS4yMWwtLjk0LTJIMXptMTYgMTZjLTEuMSAwLTEuOTkuOS0xLjk5IDJzLjg5IDIgMS45OSAyIDItLjkgMi0yLS45LTItMi0yeiIvPjwvc3ZnPg==)](https://shop.thesinsofthefathers.com/)
+  [![Support Mail](https://img.shields.io/badge/Support_Mail-1A1A1A?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:support@thesinsofthefathers.com)
+  [![Discord](https://img.shields.io/badge/Discord-1A1A1A?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sJYY7uXZkB)
+  [![Instagram](https://img.shields.io/badge/Instagram-1A1A1A?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sotfathersbook)
+  [![X](https://img.shields.io/badge/X-1A1A1A?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sotfathersbook)
+  [![Bluesky](https://img.shields.io/badge/Bluesky-1A1A1A?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/thesinsofthefathers.com)
+  [![Reddit](https://img.shields.io/badge/Reddit-1A1A1A?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/RavenwoodArchives/)
+
+</div>
+
+---
+
+### `> tail -f /var/log/digital_footprint.log`
+
+<div align="center">
+<br>
+
+  [![Profile Views](https://komarev.com/ghpvc/?username=barissalihbabacan&style=for-the-badge&color=1A1A1A&label=NETWORK_HITS)](https://github.com/barissalihbabacan) 
+  
+  <br>
+  
+  [![Streak Stats](https://streak-stats.demolab.com/?user=barissalihbabacan&theme=highcontrast&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
 
 </div>
