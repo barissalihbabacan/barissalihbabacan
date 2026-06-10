@@ -29,7 +29,7 @@ Outside of system architecture, I am the author of the dark multi-generational s
 ---
 
 ### `> ls -la /sys/production/`
-* **`[DOMAIN: Mobile & Full-Stack]` Sortify**
+* **`[DOMAIN: Mobile & Full-Stack]` Sortify (Garage.ist)**
   Serving as CTO, Project Manager, and Lead Developer. Orchestrating the full development lifecycle and app store launches (iOS/Android) utilizing **SwiftUI, Node.js, and TypeScript**.
 
 * **`[DOMAIN: Mobile & Full-Stack]` +TV (Garage.ist)**
