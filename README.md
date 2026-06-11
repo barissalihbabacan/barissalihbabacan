@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barissalihbabacan/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=white&v=1)](https://www.linkedin.com/in/barissalihbabacan/)
   [![Instagram](https://img.shields.io/badge/Instagram-1A1A1A?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/barissalihli)
   [![ORCID](https://img.shields.io/badge/ORCID-1A1A1A?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-0158-100X)
   [![Website](https://img.shields.io/badge/Website-1A1A1A?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://thesinsofthefathers.com/)
