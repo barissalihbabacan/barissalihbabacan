@@ -24,7 +24,7 @@
 
 I am a **Software Engineer** and **Systems Architect** focused on local-first environments, low-level performance, and secure data structures. I enjoy solving complex architectural problems, from managing C++ NDK integrations to developing seamless full-stack applications.
 
-Currently, my primary focus is **Osmos** (Alpha)—a local-first, peer-to-peer version control and sync system built for the Apple ecosystem. Powered by a Rust core and a native SwiftUI layer, Osmos aims to eliminate cloud dependency, giving creators total data sovereignty through a secure, offline-first architecture.
+Currently, my primary focus is **[Osmos](https://useosmos.com)** (Alpha)—a local-first, peer-to-peer version control and sync system built for the Apple ecosystem. Powered by a Rust core and a native SwiftUI layer, Osmos aims to eliminate cloud dependency, giving creators total data sovereignty through a secure, offline-first architecture.
 
 In parallel, I am building **Mythos IDE**—a writer's IDE for novelists constructing complex worlds. Designed local-first with Tauri, it gives authors a sovereign, distraction-free environment for world-building and narrative architecture.
 
@@ -34,7 +34,7 @@ Outside of system architecture, I am the author of the dark multi-generational s
 
 ### `> ls -la /sys/production/`
 
-* **`[DOMAIN: Systems & P2P]` Osmos** `[ALPHA]` — [@Osmos-App](https://github.com/Osmos-App)
+* **`[DOMAIN: Systems & P2P]` [Osmos](https://useosmos.com)** `[ALPHA]` — [@Osmos-App](https://github.com/Osmos-App)
   Local-first, peer-to-peer version control & sync system for the Apple ecosystem. **Rust** core engine + **SwiftUI** native layer. Zero cloud dependency, full data sovereignty.
 
 * **`[DOMAIN: Creative Tooling]` Mythos IDE** — [@Mythos-IDE](https://github.com/Mythos-IDE)
