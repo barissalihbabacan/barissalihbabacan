@@ -109,6 +109,6 @@ I believe the best products tell a story. **"The Sins of the Fathers"** is my on
   
   <br>
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=barissalihbabacan)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=barissalihbabacan&theme=dark)](https://git.io/streak-stats)
 
 </div>
