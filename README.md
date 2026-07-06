@@ -40,10 +40,10 @@ Outside of system architecture, I am the author of the dark multi-generational s
 * **`[DOMAIN: Creative Tooling]` Mythos IDE** — [@Mythos-IDE](https://github.com/Mythos-IDE)
   A sovereign, local-first writer's IDE for novelists and world-builders. Built with **Tauri** (Rust backend) and a native frontend. Features deep world-building primitives, narrative graph structures, and an offline-first architecture for complex storytelling.
 
-* **`[DOMAIN: Mobile & Full-Stack]` Sortify (Garage.ist)**
+* **`[DOMAIN: Mobile & Full-Stack]` [Sortify](https://sortify.com)** (Garage.ist)
   Serving as CTO, Project Manager, and Lead Developer. Orchestrating the full development lifecycle and app store launches (iOS/Android) utilizing **SwiftUI, Node.js, and TypeScript**.
 
-* **`[DOMAIN: Mobile & Full-Stack]` +TV (Garage.ist)**
+* **`[DOMAIN: Mobile & Full-Stack]` [+TV](https://plus.tv)** (Garage.ist)
   Served as Lead Developer for the +TV platform. Architected the core systems and managed the technical operations for the platform.
 
 * **`[DOMAIN: Open Source]` AnyType (anyproto)**
@@ -99,6 +99,7 @@ I believe the best products tell a story. **"The Sins of the Fathers"** is my on
 <div align="center">
   
   [![Official Lore Site](https://img.shields.io/badge/Official_Lore_Site-1A1A1A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTIgMTJoMjBNMTIgMmExNS4zIDE1LjMgMCAwMTQgMTAgMTUuMyAxNS4zIDAgMDEtNCAxMCAxNS4zIDE1LjMgMCAwMS00LTEwIDE1LjMgMTUuMyAwIDAxNC0xMHoiLz48L3N2Zz4=)](https://thesinsofthefathers.com/)
+  [![Blog](https://img.shields.io/badge/Blog-1A1A1A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xNCAySDZhMiAyIDAgMCAwLTIgMnYxNmEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWOHoiLz48cG9seWxpbmUgcG9pbnRzPSIxNCAyIDE0IDggMjAgOCIvPjxsaW5lIHgxPSIxNiIgeTE9IjEzIiB4Mj0iOCIgeTI9IjEzIi8+PGxpbmUgeDE9IjE2IiB5MT0iMTciIHgyPSI4IiB5Mj0iMTciLz48bGluZSB4MT0iMTAiIHkxPSI5IiB4Mj0iOCIgeTI9IjkiLz48L3N2Zz4=)](https://blog.thesinsofthefathers.com/)
   [![Shop](https://img.shields.io/badge/Fourthwall_Shop-1A1A1A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik03IDE4Yy0xLjEgMC0xLjk5LjktMS45OSAyUzUuOSAyMiA3IDIyczItLjkgMi0yLS45LTItMi0yek0xIDJ2MmgybDMuNiA3LjU5LTEuMzUgMi40NWMtLjE2LjI4LS4yNS42MS0uMjUuOTYgMCAxLjEuOSAyIDIgMmgxMnYtMkg3LjQyYy0uMTQgMC0uMjUtLjExLS4yNS0uMjVsLjAzLS4xMi45LTEuNjNoNy40NWMuNzUgMCA0LjQxLS40MSAxLjc1LTEuMDNsMy41OC02LjQ5QTEuMDAzIDEuMDAzIDAgMCAwIDIwIDRINS4yMWwtLjk0LTJIMXptMTYgMTZjLTEuMSAwLTEuOTkuOS0xLjk5IDJzLjg5IDIgMS45OSAyIDItLjkgMi0yLS45LTItMi0yeiIvPjwvc3ZnPg==)](https://shop.thesinsofthefathers.com/)
   [![Support Mail](https://img.shields.io/badge/Support_Mail-1A1A1A?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:support@thesinsofthefathers.com)
   [![Discord](https://img.shields.io/badge/Discord-1A1A1A?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sJYY7uXZkB)
