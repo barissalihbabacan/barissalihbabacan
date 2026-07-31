@@ -23,7 +23,7 @@ I am a **Software Engineer** and **Systems Architect** focused on local-first so
 
 Currently, my primary focus is **[Osmos](https://useosmos.com)** (Alpha)—a local-first, peer-to-peer version control and synchronization system for the Apple ecosystem. Powered by a Rust core and a native SwiftUI interface, Osmos eliminates cloud dependency by giving creators complete ownership of their work through secure, offline-first architecture.
 
-In parallel, I am building **Mythos IDE**—a local-first writing environment for novelists and world-builders. Rather than treating a manuscript as a collection of documents, Mythos treats stories as interconnected systems through narrative graphs, world-building primitives, and structured knowledge management.
+In parallel, I am building **[Mythos](https://mythoside.com)**—a local-first writing environment for novelists and world-builders. Rather than treating a manuscript as a collection of documents, Mythos treats stories as interconnected systems through narrative graphs, world-building primitives, and structured knowledge management.
 
 I am also building **[Chorus](https://joinchorus.app)**, an open-source discussion platform centered around **temporary conversation identity**. Instead of permanent profiles and reputation systems, every discussion begins with a clean slate, allowing ideas to be evaluated on their own merit.
 
