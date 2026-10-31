@@ -108,7 +108,6 @@ I believe stories deserve the same engineering discipline as software.
 <div align="center">
 
 [![Official Lore Site](https://img.shields.io/badge/Official_Lore_Site-1A1A1A?style=for-the-badge\&logo=data\:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTIgMTJoMjBNMTIgMmExNS4zIDE1LjMgMCAwMTQgMTAgMTUuMyAxNS4zIDAgMDEtNCAxMCAxNS4zIDE1LjMgMCAwMS00LTEwIDE1LjMgMTUuMyAwIDAxNC0xMHoiLz48L3N2Zz4=)](https://thesinsofthefathers.com/)
-[![Fourthwall Shop](https://img.shields.io/badge/Fourthwall_Shop-1A1A1A?style=for-the-badge\&logo=data\:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMTI0IDQ0PjI0IDI0eiIvPjwvc3ZnPg==)](https://shop.thesinsofthefathers.com/)
 
 </div>
 
