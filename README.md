@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=[SYS.INIT]+Loading+architecture...;>+Software+Engineer+%7C+Systems+Architect;>+Author+of+%22The+Sins+of+the+Fathers%22;>+Building+Osmos+%7C+Mythos+%7C+Chorus;>+Status:+Online" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=[SYS.INIT]+Loading+architecture...;>+Software+Engineer+%7C+Systems+Architect;>+Author+of+%22The+Sins+of+the+Fathers%22;>+Building+Mythos+%7C+Osmos;>+Status:+Online" alt="Software Engineer | Systems Architect | Author of The Sins of the Fathers | Building Mythos and Osmos" />
   </a>
 </div>
 
@@ -18,13 +18,11 @@
 > **`[SYS.INIT]`** Software Developer | Systems Architect | Narrative Designer <br>
 > **`[LOG]`** Building systems across physical, digital, and decentralized planes.
 
-I am a **Software Developer** and **Systems Architect** focused on local-first software, distributed systems, and secure data architectures. I enjoy solving complex engineering challenges—from modernizing low-level C++ NDK integrations to designing native applications, backend infrastructure, and peer-to-peer systems.
+I am a **Software Developer** and **Systems Architect** focused on local-first software, distributed systems, and secure data architectures. I enjoy solving complex engineering challenges—from modernizing low-level C++ NDK integrations and reverse-engineering device protocols to designing native applications and peer-to-peer systems.
 
-Currently, my primary focus is **[Osmos](https://useosmos.com)** (Alpha)—a local-first, peer-to-peer version control and synchronization system for the Apple ecosystem. Powered by a Rust core and a native SwiftUI interface, Osmos eliminates cloud dependency by giving creators complete ownership of their work through secure, offline-first architecture.
+My main project is **[Mythos](https://mythoside.com)**—a world development environment for novelists. A series, its books, chapters, characters and places live as plain Markdown files on the writer's own disk, and a Rust engine reads them together so the app knows which chapters a character appears in. Next up: continuity checks that catch a character who died in Book One speaking again in Book Two.
 
-In parallel, I am building **[Mythos](https://mythoside.com)**—a local-first writing environment for novelists and world-builders. Rather than treating a manuscript as a collection of documents, Mythos treats stories as interconnected systems through narrative graphs, world-building primitives, and structured knowledge management.
-
-I am also building **[Chorus](https://joinchorus.app)**, an open-source discussion platform centered around **temporary conversation identity**. Instead of permanent profiles and reputation systems, every discussion begins with a clean slate, allowing ideas to be evaluated on their own merit.
+Alongside it, **[Osmos](https://github.com/Osmos-App/osmos-transport)** is becoming a protocol: peer-to-peer sync between your own devices over QUIC, with no server in between. It started as a version control system; that direction is closed, and the protocol is being written before the code. Its first user will be Mythos, keeping a manuscript in step between desktop and phone.
 
 Outside of software engineering, I am the author of the dark multi-generational saga **"The Sins of the Fathers"**, where I combine narrative design with interactive technologies to build an expanding digital universe beyond the traditional novel.
 
@@ -32,14 +30,11 @@ Outside of software engineering, I am the author of the dark multi-generational 
 
 ### `> ls -la /sys/current/`
 
-* **`[DOMAIN: Systems & P2P]` [Osmos](https://useosmos.com)** `[ALPHA]` — [@Osmos-App](https://github.com/Osmos-App)
-  Local-first, peer-to-peer version control and synchronization for the Apple ecosystem. Powered by a **Rust** core with a native **SwiftUI** interface. Zero cloud dependency, complete data ownership.
+* **`[DOMAIN: Creative Tooling]` [Mythos](https://mythoside.com)** `[EARLY DEV]` — [@mythoside](https://github.com/mythoside)
+  A world development environment for novelists. A **Rust** engine speaks JSON over stdin/stdout to a **Tauri** + **React** app; the manuscript stays plain Markdown and YAML on your own disk, with no network port. Source-available under FSL-1.1, waitlist open.
 
-* **`[DOMAIN: Creative Tooling]` [Mythos](https://mythoside.com)** — [@Mythos-IDE](https://github.com/Mythos-IDE)
-  A local-first IDE for novelists and world-builders. Built with **Tauri** and **Rust**, featuring narrative graph structures, world-building primitives, and an offline-first architecture for long-form storytelling.
-
-* **`[DOMAIN: Conversation Infrastructure]` [Chorus](https://joinchorus.app)** *(In Development)*
-  An open-source discussion platform built around **temporary conversation identity**. Designed to encourage idea-first discussions without permanent profiles, reputation systems, or engagement-driven algorithms.
+* **`[DOMAIN: Systems & P2P]` [Osmos](https://github.com/Osmos-App/osmos-transport)** `[PROTOCOL DRAFT]` — [@Osmos-App](https://github.com/Osmos-App)
+  Peer-to-peer sync between your own devices: **QUIC** transport, mDNS discovery, a key pair per device, and **BLAKE3** content addressing so a device asks for exactly what it lacks. Specification first, then a reference implementation in **Rust**.
 
 ---
 
@@ -51,7 +46,7 @@ Outside of software engineering, I am the author of the dark multi-generational 
 * **`[DOMAIN: Mobile & Full-Stack]` [+TV](https://plus.tv)** *(Garage.ist)*
   Served as Lead Developer, architecting the platform's core systems while overseeing technical operations and product development.
 
-* **`[DOMAIN: Open Source]` Anytype (Anyproto)*
+* **`[DOMAIN: Open Source]` [Anytype](https://anytype.io)** *(Anyproto)*
   Contributed to the core data engine (CID mapping) and **React/TypeScript** frontend. Fixed SPA fallback loops, MIME type handling, and implemented block-editor features.
 
 ---
@@ -67,8 +62,8 @@ Outside of software engineering, I am the author of the dark multi-generational 
 * **`[DOMAIN: Enterprise Software]` IT-RMS**
   Developed a multi-branch IT Resource Management System. Migrated a monolithic PHP application to **Node.js** and **NoSQL**, implementing barcode generation and role-based access control.
 
-* **`[DOMAIN: Hardware & IoT]` Q-PASS** *(Active Production)*
-  Designed and deployed an RFID-based access control system securing a public institution, integrating **C++ (Arduino)** with Python, PHP, and MySQL over serial communication.
+* **`[DOMAIN: Hardware & IoT]` Q-PASS**
+  Designed and deployed an RFID-based access control system that handled 120–150 people a day at a school canteen for three school years, integrating **C++ (Arduino)** with a Python serial bridge, PHP, and MySQL.
 
 ---
 
@@ -78,7 +73,7 @@ Outside of software engineering, I am the author of the dark multi-generational 
 
 | Systems Programming                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Application Layer                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Infrastructure & Tooling                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Rust](https://img.shields.io/badge/Rust-1A1A1A?style=for-the-badge\&logo=rust\&logoColor=white)<br>![Swift](https://img.shields.io/badge/Swift-1A1A1A?style=for-the-badge\&logo=swift\&logoColor=white)<br>![C++](https://img.shields.io/badge/C%2B%2B-1A1A1A?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)<br>![TypeScript](https://img.shields.io/badge/TypeScript-1A1A1A?style=for-the-badge\&logo=typescript\&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge\&logo=python\&logoColor=white) | ![SwiftUI](https://img.shields.io/badge/SwiftUI-1A1A1A?style=for-the-badge\&logo=swift\&logoColor=white)<br>![React](https://img.shields.io/badge/React-1A1A1A?style=for-the-badge\&logo=react\&logoColor=white)<br>![Tauri](https://img.shields.io/badge/Tauri-1A1A1A?style=for-the-badge\&logo=tauri\&logoColor=white)<br>![Astro](https://img.shields.io/badge/Astro-1A1A1A?style=for-the-badge\&logo=astro\&logoColor=white)<br>![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1A1A1A?style=for-the-badge\&logo=tailwind-css\&logoColor=white)<br>![Node.js](https://img.shields.io/badge/Node.js-1A1A1A?style=for-the-badge\&logo=node.js\&logoColor=white) | ![Git](https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge\&logo=git\&logoColor=white)<br>![Playwright](https://img.shields.io/badge/Playwright-1A1A1A?style=for-the-badge\&logo=playwright\&logoColor=white)<br>![Firebase](https://img.shields.io/badge/Firebase-1A1A1A?style=for-the-badge\&logo=firebase\&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-1A1A1A?style=for-the-badge\&logo=mysql\&logoColor=white)<br>![Tailscale](https://img.shields.io/badge/Tailscale-1A1A1A?style=for-the-badge\&logo=tailscale\&logoColor=white)<br>![Wireshark](https://img.shields.io/badge/Wireshark-1A1A1A?style=for-the-badge\&logo=wireshark\&logoColor=white)<br>![Arduino](https://img.shields.io/badge/Arduino-1A1A1A?style=for-the-badge\&logo=arduino\&logoColor=white) |
+| ![Rust](https://img.shields.io/badge/Rust-1A1A1A?style=for-the-badge\&logo=rust\&logoColor=white)<br>![Swift](https://img.shields.io/badge/Swift-1A1A1A?style=for-the-badge\&logo=swift\&logoColor=white)<br>![Go](https://img.shields.io/badge/Go-1A1A1A?style=for-the-badge\&logo=go\&logoColor=white)<br>![Kotlin](https://img.shields.io/badge/Kotlin-1A1A1A?style=for-the-badge\&logo=kotlin\&logoColor=white)<br>![C++](https://img.shields.io/badge/C%2B%2B-1A1A1A?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)<br>![TypeScript](https://img.shields.io/badge/TypeScript-1A1A1A?style=for-the-badge\&logo=typescript\&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge\&logo=python\&logoColor=white) | ![SwiftUI](https://img.shields.io/badge/SwiftUI-1A1A1A?style=for-the-badge\&logo=swift\&logoColor=white)<br>![React](https://img.shields.io/badge/React-1A1A1A?style=for-the-badge\&logo=react\&logoColor=white)<br>![Tauri](https://img.shields.io/badge/Tauri-1A1A1A?style=for-the-badge\&logo=tauri\&logoColor=white)<br>![Astro](https://img.shields.io/badge/Astro-1A1A1A?style=for-the-badge\&logo=astro\&logoColor=white)<br>![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1A1A1A?style=for-the-badge\&logo=tailwind-css\&logoColor=white)<br>![Node.js](https://img.shields.io/badge/Node.js-1A1A1A?style=for-the-badge\&logo=node.js\&logoColor=white) | ![Git](https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge\&logo=git\&logoColor=white)<br>![Playwright](https://img.shields.io/badge/Playwright-1A1A1A?style=for-the-badge\&logo=playwright\&logoColor=white)<br>![Firebase](https://img.shields.io/badge/Firebase-1A1A1A?style=for-the-badge\&logo=firebase\&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-1A1A1A?style=for-the-badge\&logo=mysql\&logoColor=white)<br>![Tailscale](https://img.shields.io/badge/Tailscale-1A1A1A?style=for-the-badge\&logo=tailscale\&logoColor=white)<br>![Wireshark](https://img.shields.io/badge/Wireshark-1A1A1A?style=for-the-badge\&logo=wireshark\&logoColor=white)<br>![Arduino](https://img.shields.io/badge/Arduino-1A1A1A?style=for-the-badge\&logo=arduino\&logoColor=white) |
 
 </div>
 
@@ -97,11 +92,6 @@ I believe stories deserve the same engineering discipline as software.
 * **`[SYS.ARCH]`** Vanilla JavaScript (ES6+), Tailwind CSS, Firebase Functions, and Google Cloud Platform.
 * **`[SYS.CORE]`** Interactive maps, dynamic relationship graphs, immersive audio, and cinematic animations powered by Mapbox GL JS, D3.js, GSAP, Lenis, and Howler.js.
 * **`[SYS.OPS]`** Cloudflare edge protection, GitHub Actions CI/CD, Playwright end-to-end testing, and Sentry monitoring.
-
-**`[NODE 02: THE SUPPLY DEPOT]` // Merchandise Platform**
-
-* **`[SYS.PLAT]`** Fourthwall storefront with custom domain integration.
-* **`[SYS.INTEG]`** Unified branding and fulfillment infrastructure for the expanding universe.
 
 <br>
 
